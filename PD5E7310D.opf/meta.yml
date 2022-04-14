@@ -1,0 +1,31 @@
+id: PD5E7310D
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA00KG09694
+  instance_id: http://purl.bdrc.io/resource/IE00KG09694
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གྲུབ་མཐའི་རྣམ་བཤད་ཀུན་བཟང་ཞིང་གི་ཉི་མ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - jiao pai guang
+  author: http://purl.bdrc.io/resource/P423
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    d28a3598bbed40c1987eba184313b327:
+      title: པོད ༡་གྲུབ་མཐའི་རྣམ་བཤད་ཀུན་བཟང་ཞིང་གི་ཉི་མ
+      volume_number: 1
+      base_file: UT00KG09694_I00KG09712_0000.txt
+      reference: http://purl.bdrc.io/resource/VL39BB557F752C7DA0
+      image_group: I00KG09712
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W00KG09694
+  - http://purl.bdrc.io/resource/MW00KG09694
+  ocr_software: Namsel
+created_at: '2021-12-22T10:20:40.231826'
+last_modified_at: '2021-12-22T10:20:40.231833'
